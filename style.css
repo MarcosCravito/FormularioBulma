@@ -1,4 +1,13 @@
 body{
     display: flex;
     justify-content: center;
+  
+}
+.geral{
+    background-color: rgb(233, 230, 230);
+   padding: 20px;
+}
+
+.f{
+    text-align: center;
 }
